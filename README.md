@@ -101,7 +101,7 @@ project/
 
 ## 📢 Contact
 
-If you're looking for a data scientist with hands-on experience in time series forecasting and hybrid modeling, feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vishwak-balaji-jayasankar-8a384018a/)).
+If you're looking for a data scientist with hands-on experience in time series forecasting and hybrid modeling, feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com/in/vishwak-balaji-jayasankar-8a384018a/]).
 
 ---
 
